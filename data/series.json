@@ -1,6 +1,6 @@
 {
   "series": {
-    "title": "THE SANDHYA CYCLE",
+    "title": "Bengal Noir",
     "subtitle": "Fractured Cynicism",
     "tagline": "A series spanning over timelines with noir , cosmic horror and cyberpunk",
     "badge": "Series",
@@ -11,27 +11,27 @@
   "books": [
     {
       "id": 1,
-      "slug": "Sandhya cycle 1",
-      "title": "ASHES OF THE THIRTEENTH YEAR",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 1 ASHES OF THE THIRTEENTH YEAR.txt",
-      "setting": "Vedic India"
+      "slug": "Bengal Noir",
+      "title": "The Ticking Clock",
+      "subtitle": "Novella",
+      "file": "books/PART ONE: The Ticking Clock.txt",
+      "setting": "Kolkata"
     },
         {
       "id": 2,
-      "slug": "Sandhya cycle 2",
-      "title": "VENOM OF THE AGE",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 2 VENOM OF THE AGE.txt",
-      "setting": "Vedic India"
+      "slug": "Bengal Noir",
+      "title": "The Killdozer",
+      "subtitle": "Novella",
+      "file": "books/PART TWO: The Killdozer.txt",
+      "setting": "Asansol"
     },
         {
       "id": 3,
-      "slug": "Sandhya cycle 3",
-      "title": "THE TORTOISE BACK",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 3 THE TORTOISE BACK.txt",
-      "setting": "Future"
+      "slug": "Bengal Noir",
+      "title": "The Puzzle Box",
+      "subtitle": "Novella",
+      "file": "books/PART THREE: The Puzzle Box.txt",
+      "setting": "Howrah"
     }
   ]
 }
